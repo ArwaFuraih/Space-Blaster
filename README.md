@@ -1,5 +1,5 @@
 # Space-Blaster
-Space Blaster is a 2D shooter game made with Unity 3D
+Space Blaster is a 2D shooter game made with Unity 3D 🚀
 - 🤝 Hi, I’m @ArwaFuraih
 - 👩🏼‍💻 I’m interested in Game Development!
 - 👾 I’m currently learning Unity3D.
